@@ -10,4 +10,5 @@ class LabPadroesProjetoSpringApplicationTests {
 	void contextLoads() {
 	}
 
+	
 }
